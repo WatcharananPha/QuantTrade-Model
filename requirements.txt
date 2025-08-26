@@ -1,0 +1,9 @@
+numpy
+pandas
+xgboost
+scikit-learn
+stldecompose
+matplotlib
+plotly
+seaborn
+stldecompose
