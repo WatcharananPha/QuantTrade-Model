@@ -1,9 +1,11 @@
-numpy
-pandas
+numpy==1.26.4
+pandas==1.5.3
+pandas-ta
 xgboost
-scikit-learn
-stldecompose
+scikit-learn==1.3.2
+stldecompose==0.0.5
 matplotlib
 plotly
 seaborn
-stldecompose
+python-binance==1.0.19
+python-dotenv
