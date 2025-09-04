@@ -9,3 +9,9 @@ plotly
 seaborn
 python-binance==1.0.19
 python-dotenv
+selenium
+undetected-chromedriver
+python-dotenv
+pandas
+pyarrow
+tqdm
